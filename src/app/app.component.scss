@@ -1,5 +1,7 @@
 .cards-container {
     display: flex;
-    justify-content: space-evenly;
-    // background-image: url("");
+     justify-content: space-evenly;
+    //   background-image: url('../assets/imagem.jpg');
+      background-size: cover;
+     background-position: center;
 }
