@@ -1,0 +1,12 @@
+@import 'variables';
+.card-button-cancel{
+    font-size: 16px;
+    text-align: center;
+    color:aliceblue;
+    margin-top: 10px;
+    border-radius: 25px;
+    background-color: $bgCancel;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 10px;  
+}
